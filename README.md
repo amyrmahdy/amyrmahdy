@@ -2,7 +2,9 @@
 - 👀 I’m interested in Deep Learning, ...
 - 🌱 I’m currently learning Advance Time Series Forcasting, Fraud Detection, ...
 - 💞️ I’m looking to collaborate on any AI projects that is fun for me and also helps world. 
-- 📫 How to reach me: amyrmahdy1@gmail.com
+- 📫 How to reach me: 
+  - [Gmail](amyrmahdy1@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/amyrmahdy/)
 
 
 <!---
