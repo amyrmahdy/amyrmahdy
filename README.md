@@ -15,7 +15,7 @@ about = {
   "Collaboration": "Open to collaborating on exciting projects",
   "Learning": "Always eager to learn new techniques",
   "Contact": "Feel free to reach out if you're interested in working together",
-  "LinkedIn": "https://www.linkedin.com/in/amyrmahdy/
+  "LinkedIn": "https://www.linkedin.com/in/amyrmahdy/"
 }
 ```
 
