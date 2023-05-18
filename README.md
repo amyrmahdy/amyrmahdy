@@ -3,7 +3,7 @@ about = {
   "Name": "amyrmahdy",
   "Profession": "Data Scientist",
   "Experience": "1 year",
-  "Passion": "Using data to drive insights and make informed business decisions",
+  "Passion": "Empowering Data-Driven Decisions for Business Success",
   "Specialization": "Deep learning",
   "Skills": [
     "Data wrangling",
