@@ -13,7 +13,6 @@
   },
   "WorkExperience": [
     {
-      "Company": "Vasl Company",
       "Role": "Data Scientist",
       "Location": "Tehran, Iran",
       "Duration": "2022 – Present",
@@ -23,22 +22,6 @@
         "Designed and maintained 16+ interactive dashboards, increasing data retrieval efficiency by 40%.",
         "Built predictive models and KPIs that reduced decision-making time by 45% and improved data reliability."
       ]
-    }
-  ],
-  "Education": [
-    {
-      "Degree": "Master’s Degree in Applied Mathematics and Informatics",
-      "Institution": "Astrakhan State University",
-      "Location": "Astrakhan, Russia",
-      "Year": "2020 – 2022",
-      "GPA": "4.62/5.0"
-    },
-    {
-      "Degree": "Bachelor’s Degree in Computer Science",
-      "Institution": "Mahalat Higher Educational Institution",
-      "Location": "Mahalat, Iran",
-      "Year": "2015 – 2019",
-      "GPA": "15.49/20"
     }
   ],
   "Certifications": [
